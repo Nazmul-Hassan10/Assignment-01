@@ -51,6 +51,65 @@
 }
 .nav_img{
     margin-bottom: -30px;
+}
+.feature_he{
+    text-align: center;
+    margin-top: 180px;
+}
+.feature_p{
+    text-align: center;
+    margin-top: 10px;
+}
+.feature_container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+}
+.feature_img{
+    width: 464px;
+    height: 538px;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    border-radius: 300px 300px 0px 0px;
+    margin-left: 20px;
+}
+.pink{
+    background: rgba(167, 33, 98, 0.15);
+    width: 17%;
+    height: 65%;
+}
+.blue{
+    background: rgba(5, 151, 160, 0.15);
+    width: 17%;
+    height: 65%;
     
 }
+.green{
+    background: rgba(71, 125, 17, 0.15);
+    width: 17%;
+    height: 65%;
+}
+.feature_flowers{
+    height: 330px;
+}
+.flo_name{
+    display: flex;
+    margin-top: -100px;
+}
+.pink_flo{
+    margin-left: 555px;
+    border-bottom: 2px solid #02131c;
+}
+.red_flo{
+    /* margin-left: 200px; */
+    margin-left: 230px;
+    border-bottom: 2px solid #02131c;
+}
+.green_flo{
+    margin-left: 220px;
+    border-bottom: 2px solid #02131c;
+}
+
 
